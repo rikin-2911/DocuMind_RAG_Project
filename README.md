@@ -51,10 +51,10 @@ With **DocuMind**, you can:
 ---
 
 ## 🌟 Future Improvements
-- Multi-file document support
--Support for local LLMs (e.g., Llama, Mistral)
--Multi-language summarization & Q&A
--Export answers and summaries as PDF
+- **Multi-file document support**
+- **Support for local LLMs (e.g., Llama, Mistral)**
+- **Multi-language summarization & Q&A**
+- **Export answers and summaries as PDF**
 
 ---
 
