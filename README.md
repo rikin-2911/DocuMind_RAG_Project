@@ -34,26 +34,63 @@ With **DocuMind**, you can:
 
 ---
 
-## 📜 Example Prompt JSON Format
-```json
-{
-  "task": "summarization",
-  "context": "<document_text_chunk>",
-  "instructions": "Summarize in bullet points",
-  "output_format": "plain_text"
-}
+
+## ⚡ Workflow
+- Upload Document (PDF, TXT, etc.)
+- 2.Chunking & Embeddings – document is split and converted into vector embeddings
+- 3.FAISS Search – retrieve the most relevant chunks based on user query
+- 4.LLM Response Generation – context is passed to OpenAI LLM via LangChain
+- 5.Display Results – answers or summaries rendered in Streamlit UI
 
 ---
 
-## ⚡ Workflow
-- 1 Upload Document (PDF, TXT, etc.)
+## 🌟 Future Improvements
+- Multi-file document support
+-Support for local LLMs (e.g., Llama, Mistral)
+-Multi-language summarization & Q&A
+-Export answers and summaries as PDF
 
-Chunking & Embeddings – document is split and converted into vector embeddings
+---
 
-FAISS Search – retrieve the most relevant chunks based on user query
+## ✨ Tagline
+- DocuMind – “Ask. Understand. Summarize.”
+-Because your documents should talk back to you.
 
-LLM Response Generation – context is passed to OpenAI LLM via LangChain
+## 👨‍💻 About Me
 
-Display Results – answers or summaries rendered in Streamlit UI
+Hello! I’m **Rikin Pithadia** – a passionate **Data Science and Artificial Intelligence** enthusiast, blending a strong academic foundation with a hands-on approach to solving real-world problems using AI.
 
+I specialize in **Machine Learning, Generative AI, NLP, Computer Vision, and AI-powered application development**, with a keen interest in building intelligent systems that are both **innovative** and **practical**.
+
+---
+
+### 🎓 Education
+- **B.Sc (Hons)** in Data Science & AI (Online Degree)  
+- **B.E/B.Tech** in Mechanical Engineering (Offline Degree)  
+
+---
+
+### 💼 Skills & Expertise
+- **AI & ML:** Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision  
+- **Tools & Frameworks:** PyTorch, TensorFlow/Keras, LangChain, FAISS, Hugging Face, OpenAI API  
+- **Big Data & Processing:** Apache Spark, Kafka, Data Mining, Graph Mining  
+- **Application Development:** Streamlit, Flask, FastAPI, Full-Stack AI Applications  
+- **Other Interests:** Data Warehousing, Page Ranking Algorithms, IoT-based AI systems
+
+---
+
+### 🏆 AI/ML Works
+- Multiple AI/ML projects across **NLP, CV, IoT, and Generative AI**, with 6–7 portfolio projects
+
+---
+
+### 📬 Contact
+- **Portfolio:** [neural-portfolio-galaxy.vercel.app](https://neural-portfolio-galaxy.vercel.app/)  
+- **GitHub:** [github.com/rikin-2911](https://github.com/rikin-2911)  
+- **LinkedIn:** [linkedin.com/in/rikin-pithadia-20b94729b](http://www.linkedin.com/in/rikin-pithadia-20b94729b)  
+- **Email:** rikinpithadia2911@gmail.com  
+
+---
+
+💡 *"I believe in creating AI systems that are not just powerful, but also accessible and impactful for everyone."*
 
