@@ -44,6 +44,12 @@ With **DocuMind**, you can:
 
 ---
 
+
+## NOTE: “This project is currently designed to run locally due to API usage constraints. Users can provide their own OpenAI API key to execute it.”
+
+
+---
+
 ## 🌟 Future Improvements
 - Multi-file document support
 -Support for local LLMs (e.g., Llama, Mistral)
