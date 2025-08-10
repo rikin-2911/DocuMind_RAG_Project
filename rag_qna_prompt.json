@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "context",
+        "question"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n                You are a QnA chatbot with reasoning and rag capabilities.\n                Answer the user's question in concise and accurate manner.\n                Include revelant mathematical formulation if present in the context\n                Answer ONLY from the provided transcript context.\n                If the context is insufficient, just say Insufficient context,\n                {context}\n                Question: {question}\n            ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "context"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n                Please summarize the given document context in a accurate manner for good user experience, context as follow:- \n {context}\n            ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
