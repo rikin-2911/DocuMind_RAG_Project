@@ -71,8 +71,8 @@ I specialize in **Machine Learning, Generative AI, NLP, Computer Vision, and AI-
 ---
 
 ### 🎓 Education
-- **B.Sc (Hons)** in Data Science & AI (Online Degree)  
-- **B.E/B.Tech** in Mechanical Engineering (Offline Degree)  
+- **B.Sc (Hons)** in Data Science & Artificial Intelligence - **IIT Guwahati**
+- **B.E/B.Tech** in Mechanical Engineering - **GEC Gandhinagar**
 
 ---
 
