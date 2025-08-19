@@ -36,7 +36,7 @@ With **DocuMind**, you can:
 
 
 ## ⚡ Workflow
-- Upload Document (PDF, TXT, etc.)
+- 1.Upload Document (PDF, TXT, etc.)
 - 2.Chunking & Embeddings – document is split and converted into vector embeddings
 - 3.FAISS Search – retrieve the most relevant chunks based on user query
 - 4.LLM Response Generation – context is passed to OpenAI LLM via LangChain
